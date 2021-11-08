@@ -2,7 +2,7 @@
 
 > This is a cross platform native app using React Native
 
-<!-- ### View Live Demo:  -->
+### Download APK file: https://drive.google.com/file/d/1u7nXnA-qTLamIQEq-4R_alCDxhOybkyN/view?usp=sharing
 
 <!-- ![screenshot]() -->
 
